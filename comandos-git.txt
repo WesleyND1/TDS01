@@ -63,4 +63,5 @@ git clone <url-do-repositório>
 copia (clona um repositório) e cria uma pasta com o clone dentro
 git clone <url-do-repositório> <nome-da-pasta>
 
-volta para o arquivo original
+volta para o arquivo original, cancela todas as modificações feitas
+git restore <nome do arquivo>
